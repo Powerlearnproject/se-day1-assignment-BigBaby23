@@ -50,8 +50,18 @@ System Testing: Testing the entire software as a whole.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is like creating a special recipe for your robot. Just like a recipe tells you exactly what ingredients to use and how to mix them to bake a delicious cake, a prompt tells the robot exactly what information you need and how you want it presented.
 
+Importance of prompt Engineering
+
+Determine your goal for Al tools.
+Perform tests
+Consider using machine learning methods.
+Separating instructions
+Try to be specific as possible.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague prompt: How to Bake bread.
+Prompt response: How to bake banana bread using flour and banana as the preferred flavourreed 
